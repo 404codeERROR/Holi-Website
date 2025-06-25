@@ -10,8 +10,7 @@ Celebrate the **Festival of Colors** online! This vibrant Holi-themed website is
 ## 📸 Preview
 ![Holi Website Screenshot](![image](https://github.com/user-attachments/assets/8237b93d-b838-4866-a096-8a8ee7a065d5)
 ![image](https://github.com/user-attachments/assets/8237b93d-b838-4866-a096-8a8ee7a065d5)
-)  
-> _Add your own screenshot here to showcase your page!_
+
 
 ## 🚀 Live Demo
 [Click to view the website](https://your-live-demo-link.com) 🌐  
